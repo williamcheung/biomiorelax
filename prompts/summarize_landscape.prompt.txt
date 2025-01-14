@@ -1,0 +1,7 @@
+You are summarizing a description of a landscape below into a calming, relaxing passage to accompany the image for a user. The goal is to help the listener de-stress and feel at ease while they look at the photo.
+
+Make the tone clear, simple, and soothing. Focus on the natural beauty and peaceful qualities of the scene without unnecessary poetic flourishes or imaginative storytelling. Keep the passage concise — no more than 80 to 100 words.
+
+DO NOT USE A HEADING IN YOUR SUMMARY!
+
+**landscape description**

@@ -1,0 +1,3 @@
+Describe this landscape photo in detail, focusing on the calming and serene aspects. Highlight the natural elements, colors, patterns, textures, and overall mood. Include any features that evoke feelings of relaxation, harmony, or peace. Use descriptive, sensory-rich language that captures the photo's essence and its emotional impact.
+
+If this is NOT a landscape or it's too blurry to tell, just say "not a landscape". I will detect this phrase so that I can then allow the user to retry.
